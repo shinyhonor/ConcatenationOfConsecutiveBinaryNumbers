@@ -1,0 +1,2 @@
+# ConcatenationOfConsecutiveBinaryNumbers
+Concatenation of Consecutive Binary Numbers
